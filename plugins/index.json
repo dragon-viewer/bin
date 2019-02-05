@@ -2,5 +2,5 @@
   "JavaImagePlugin.jar": { "md5": "2b5e4df5e342372a3907088f7a80a35c", "url": "https://dragon-viewer.github.io/bin/plugins/JavaImagePlugin.jar" },
   "GIFImagePlugin.jar": { "md5": "a7a3f78e721c2440d767ad0530a486d1", "url": "https://dragon-viewer.github.io/bin/plugins/GIFImagePlugin.jar" },
   "WebPImagePlugin.jar": { "md5": "768d821bb292261df17c9e2c4e34d739", "url": "https://dragon-viewer.github.io/bin/plugins/WebPImagePlugin.jar" },
-  "SVGImagePlugin.jar": { "md5": "353e7ba0995a03f90e52462490eabf69", "url": "https://dragon-viewer.github.io/bin/plugins/SVGImagePlugin.jar" }
+  "SVGImagePlugin.jar": { "md5": "8cb50e80cc105e300ab6e1ea932111c2", "url": "https://dragon-viewer.github.io/bin/plugins/SVGImagePlugin.jar" }
 }
